@@ -11,7 +11,7 @@
 *   (ISC)² CC Certified
 *   (ISC)² CISSP Certified
 
-*   **Credentials & Affiliations:**
+  Cedentials & Affiliations:**
 
 *   Bachelor of Information Technology
 *   Postgraduate Degree (In Progress): Cybersecurity and Information
