@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesse Ngolab</h1>
 
 <h1 align="center">🙋‍♂️ About me</h1>
-<h3 align="center">
 
 I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
 
@@ -18,7 +17,7 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm
 
 *   Bachelor of Information Technology
 *   Postgraduate Degree (In Progress): Cybersecurity and Information
-</h3>
+
 
 ## 
 
