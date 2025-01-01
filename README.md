@@ -16,6 +16,8 @@
 *   Bachelor of Information Technology
 *   Postgraduate Degree (In Progress): Cybersecurity and Information
 
+![image](https://github.com/user-attachments/assets/48bef2a9-5462-4356-a2c8-889409060784)
+
 
 ## 
 
