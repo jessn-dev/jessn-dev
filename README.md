@@ -2,8 +2,6 @@
 
 <h1 align="center">🙋‍♂️ About me</h1>
 
-I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
-
 💻  IT professional with 7+ years of experience in Software Development and DevOps, blending practical expertise with a strong academic foundation. Holding a Bachelor's in Information Technology and currently pursuing a Postgraduate Degree in Cybersecurity and Information Assurance to further enhance my skills in the ever-evolving security landscape.
 
 🛡️ Proudly serving in the Army National Guard.
