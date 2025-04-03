@@ -7,12 +7,15 @@
 🔑 Certified in:
 *   CompTIA CySA+ Certified
 *   (ISC)² CC Certified
-*   (ISC)² CISSP Certified
 
   Cedentials & Affiliations:**
 
 *   Bachelor of Information Technology
 *   Postgraduate Degree (In Progress): Cybersecurity and Information
+
+- 🔭 I’m currently working on ...
+  *   (ISC)² CISSP Certification
+  *   CompTIA Pentest Certification
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,9 +23,6 @@
 
 
 ## 
-
-![profile view count](https://komarev.com/ghpvc/?username=bobbyg603)
-
 
 
 <!--
