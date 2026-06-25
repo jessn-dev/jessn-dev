@@ -1,6 +1,6 @@
 <h1 align="center">Jesse Ngolab</h1>
 <p align="center"><b>Software Dev → DevOps → Cybersecurity</b></p>
-<p align="center">Veteran turned engineer. Started by building apps, learned to ship and automate them, now focused on securing them.</p>
+<p align="center">Started by building apps, learned to ship and automate them, now focused on securing them.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessengolab/" target="_blank">
