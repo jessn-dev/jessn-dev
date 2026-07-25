@@ -1,6 +1,16 @@
-<h1 align="center">Jesse Ngolab</h1>
-<p align="center"><b>Software Dev → DevOps → Cybersecurity</b></p>
-<p align="center">Started by building apps, learned to ship and automate them, now focused on securing them.</p>
+<h1 align="center">Hi there, I'm Jesse 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA_CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+" />
+  <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+" />
+  <img src="https://img.shields.io/badge/CompTIA_SecurityX-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA SecurityX" />
+  <img src="https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-202B3D?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
+</p>
+<h3 align="center">Crafting Resilient Applications, Automating Infrastructure, and Hardening Systems.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jessn-dev&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+</p>
 
   <p>
       <a href="https://www.linkedin.com/in/jessengolab/" target="_blank">
@@ -19,21 +29,38 @@
 
 ---
 
-### The Path
+<table width="100%">
+  <tr>
+    <td width="55%" valign="middle">
+
+<h3 align="center">🛡️ The Path</h3>
 
 I don't fit one box — each stop taught the next:
 
-- 🧱 **Software Dev** — Built full-stack apps (`Python`/`Flask`, `Java`/`Spring Boot`, `Angular`/`React`). Learned how systems are made.
-- ⚙️ **DevOps** — Automated the boring and the breakable. `Docker`, `Kubernetes`, `Terraform`, `Azure`. Learned how systems are shipped and scaled.
-- 🛡️ **Cybersecurity** — Now learning how systems break — and how to stop it. Currently leveling up blue-team skills (CySA+, ISC2 CC).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> **Software Dev** — Built full-stack apps (`Python`/`Flask`, `Java`/`Spring Boot`, `Angular`/`React`). Learned how systems are made.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> **DevOps** — Automated the boring and the breakable. `Docker`, `Kubernetes`, `Terraform`, `Azure`. Learned how systems are shipped and scaled.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> **Cybersecurity** — Now learning how systems break — and how to stop it. Currently leveling up blue-team skills (CySA+, ISC2 CC).
 
-> The dev who builds it and the engineer who ships it make a sharper defender. That's the bet I'm making.
+</td>
+    <td width="45%" valign="middle">
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<div align="center">
+  <img alt="Languages" src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css&perline=6" /><br/><br/>
+  <img alt="Frameworks" src="https://skillicons.dev/icons?i=flask,spring,angular,react,nodejs,tailwind,bootstrap&perline=7" /><br/><br/>
+  <img alt="DevOps & Cloud" src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,terraform,git,github&perline=7" /><br/><br/>
+  <img alt="Security & OS" src="https://skillicons.dev/icons?i=kali,debian,linux,windows,apple&perline=5" />
+</div>
+
+</td>
+  </tr>
+</table>
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-<!-- Swap these for your real repos. Format: name | what it does | what it shows off -->
 | Project | What it does | Highlights |
 |---------|--------------|------------|
 | 🔎 **[agentic-scope](https://github.com/jessn-dev/agentic-scope)** | A directory-as-context standard + read-only MCP server giving AI agents live, token-budgeted awareness of a multi-project workspace. | `TypeScript` · MCP tooling |
@@ -42,35 +69,20 @@ I don't fit one box — each stop taught the next:
 
 📌 More in my [pinned repos](https://github.com/jessn-dev?tab=repositories).
 
----
 
-### Tech Stack
+### 🏆 GitHub Stats & Trophies
 
 <p align="center">
-  <img alt="Languages" src="https://skillicons.dev/icons?i=python,java,typescript,javascript,html,css" /><br/>
-  <img alt="Frameworks" src="https://skillicons.dev/icons?i=flask,spring,angular,react,nodejs,tailwind,bootstrap" /><br/>
-  <img alt="DevOps & Cloud" src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,terraform,git,github" /><br/>
-  <img alt="Security & OS" src="https://skillicons.dev/icons?i=kali,debian,linux,windows,apple" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=jessn-dev&hide_border=true&theme=tokyonight" />
 </p>
 
----
-
-### Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| 🛡️ **CompTIA CySA+** (Cybersecurity Analyst) | CompTIA | 2024 |
-| 🌐 **ISC2 Certified in Cybersecurity (CC)** | (ISC)² | 2024 |
-
----
-
-### GitHub Stats
-
+<!-- The Snake Animation will appear here once the GitHub Action runs -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessn-dev&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jessn-dev&hide_border=true&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessn-dev/jessn-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessn-dev/jessn-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jessn-dev/jessn-dev/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
