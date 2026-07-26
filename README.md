@@ -1,31 +1,32 @@
 <h1 align="center">Hi there, I'm Jesse 👋</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/ISACA_CISM-000000?style=for-the-badge&logoColor=white" alt="ISACA CISM" />
   <img src="https://img.shields.io/badge/CompTIA_CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+" />
   <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+" />
   <img src="https://img.shields.io/badge/CompTIA_SecurityX-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA SecurityX" />
   <img src="https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-202B3D?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
 </p>
+<p align="center">
+  🎓 <img src="https://img.shields.io/badge/Western_Governors_University-M.S._Cybersecurity_%26_Information_Assurance-002F51?style=flat-square" alt="WGU - M.S. Cybersecurity and Information Assurance" />
+  🎓 <img src="https://img.shields.io/badge/University_of_the_Cordilleras-B.S._Information_Technology-00573F?style=flat-square" alt="University of the Cordilleras - B.S. Information Technology" />
+</p>
 <h3 align="center">Crafting Resilient Applications, Automating Infrastructure, and Hardening Systems.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jessn-dev&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/jessengolab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.jbn-dev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:jessengolab.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jessn-dev" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=jessn-dev&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+  </a>
 </p>
-
-  <p>
-      <a href="https://www.linkedin.com/in/jessengolab/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="https://www.jbn-dev.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-111111.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="mailto:jessengolab.dev@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://github.com/jessn-dev" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=jessn-dev&style=for-the-badge&color=blue" alt="Profile Views" />
-      </a>
-    </p>
 
 ---
 
@@ -39,7 +40,7 @@ I don't fit one box — each stop taught the next:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> **Software Dev** — Built full-stack apps (`Python`/`Flask`, `Java`/`Spring Boot`, `Angular`/`React`). Learned how systems are made.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> **DevOps** — Automated the boring and the breakable. `Docker`, `Kubernetes`, `Terraform`, `Azure`. Learned how systems are shipped and scaled.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> **Cybersecurity** — Now learning how systems break — and how to stop it. Currently leveling up blue-team skills (CySA+, ISC2 CC).
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="22" /> **Cybersecurity** — Now learning how systems break — and how to stop it. Currently leveling up red and blue-team skills (CISM, CySA+, PenTest+, SecurityX, ISC2 CC).
 
 </td>
     <td width="45%" valign="middle">
@@ -56,6 +57,12 @@ I don't fit one box — each stop taught the next:
 </td>
   </tr>
 </table>
+
+---
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

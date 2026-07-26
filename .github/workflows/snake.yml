@@ -11,7 +11,10 @@ on:
     branches:
     - main
     - master
-    
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
