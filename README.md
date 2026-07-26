@@ -98,18 +98,4 @@ I don't fit one box — each stop taught the next:
   </picture>
 </p>
 
----
-
-<details>
-<summary><b>$ whoami</b></summary>
-
-```bash
-$ whoami
-> Jesse — builds it, ships it, now learning to break it (so others can't)
-$ stack
-> dev + devops + security
-$ motto
-> "Build. Secure. Automate."
-```
-
-</details>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=120&section=footer" width="100%"/>
