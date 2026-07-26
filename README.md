@@ -74,11 +74,68 @@ I don't fit one box — each stop taught the next:
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Highlights |
-|---------|--------------|------------|
-| 🔎 **[agentic-scope](https://github.com/jessn-dev/agentic-scope)** | A directory-as-context standard + read-only MCP server giving AI agents live, token-budgeted awareness of a multi-project workspace. | `TypeScript` · MCP tooling |
-| 🗺️ **[osint-atlas](https://github.com/jessn-dev/osint-atlas)** | Graph-first, link-health-aware map of ~5,000 OSINT tools. YAML source of truth, automated link checks & upstream sync. | `TypeScript` · `Astro` · `D3` |
-| 🧰 **[jobDork](https://github.com/jessn-dev/jobDork)** | Builds targeted Google "dorks" that surface job postings across LinkedIn, Indeed, Glassdoor & 20+ ATS portals. | `Python` |
+<table width="100%">
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="60" />
+    </td>
+    <td width="85%">
+      <b><a href="https://github.com/jessn-dev/agentic-scope">agentic-scope</a></b><br>
+      A directory-as-context standard + read-only MCP server giving AI agents live, token-budgeted awareness of a multi-project workspace. <br>
+      <i>TypeScript · MCP</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://skillicons.dev/icons?i=astro" width="60" />
+    </td>
+    <td width="85%">
+      <b><a href="https://github.com/jessn-dev/osint-atlas">osint-atlas</a></b><br>
+      Graph-first, link-health-aware map of ~5,000 OSINT tools. YAML source of truth, automated link checks & upstream sync.<br>
+      <i>TypeScript · Astro · D3</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="60" />
+    </td>
+    <td width="85%">
+      <b><a href="https://github.com/jessn-dev/jobDork">jobDork</a></b><br>
+      Builds targeted Google "dorks" that surface job postings across LinkedIn, Indeed, Glassdoor & 20+ ATS portals.<br>
+      <i>Python</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://skillicons.dev/icons?i=go" width="60" />
+    </td>
+    <td width="85%">
+      <b><a href="https://github.com/jessn-dev/sprout">sprout</a></b><br>
+      A fast, interactive CLI for Spring Boot that generates enterprise-grade projects pre-wired with Docker, CI/CD, Kubernetes, and clean architecture out of the box.<br>
+      <i>Go</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="60" />
+    </td>
+    <td width="85%">
+      <b><a href="https://github.com/jessn-dev/Modern-Data-Science-Template">Modern-Data-Science-Template</a></b><br>
+      A containerized data science template providing a secure, perfectly reproducible development environment with VS Code Dev Containers, JupyterLab, Mamba, and Kubernetes support.<br>
+      <i>Shell · Docker</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="60" />
+    </td>
+    <td width="85%">
+      <b><a href="https://github.com/jessn-dev/siem-alert-triage">siem-alert-triage</a></b><br>
+      A containerized detection pipeline for authentication logs. It normalizes events into the OCSF Authentication schema, evaluates them against YAML rules over event-time sliding windows, scores each finding with runtime enrichment, and routes the result through Prometheus and Alert Manager.<br>
+      <i>Python</i>
+    </td>
+  </tr>
+</table>
 
 📌 More in my [pinned repos](https://github.com/jessn-dev?tab=repositories).
 
