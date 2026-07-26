@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Jesse 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jesse+👋;Build.+Secure.+Automate.;Crafting+Resilient+Apps;Automating+Infrastructure;Hardening+Systems" alt="Hi there, I'm Jesse 👋" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ISACA_CISM-000000?style=for-the-badge&logoColor=white" alt="ISACA CISM" />
@@ -8,10 +10,9 @@
   <img src="https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-202B3D?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
 </p>
 <p align="center">
-  🎓 <img src="https://img.shields.io/badge/Western_Governors_University-M.S._Cybersecurity_%26_Information_Assurance-002F51?style=flat-square" alt="WGU - M.S. Cybersecurity and Information Assurance" />
-  🎓 <img src="https://img.shields.io/badge/University_of_the_Cordilleras-B.S._Information_Technology-00573F?style=flat-square" alt="University of the Cordilleras - B.S. Information Technology" />
+  <img src="https://img.shields.io/badge/Western_Governors_University-M.S._Cybersecurity_%26_Information_Assurance-002F51?style=flat-square&logo=gitbook&logoColor=white" alt="WGU - M.S. Cybersecurity and Information Assurance" />
+  <img src="https://img.shields.io/badge/University_of_the_Cordilleras-B.S._Information_Technology-00573F?style=flat-square&logo=gitbook&logoColor=white" alt="University of the Cordilleras - B.S. Information Technology" />
 </p>
-<h3 align="center">Crafting Resilient Applications, Automating Infrastructure, and Hardening Systems.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jessengolab/" target="_blank">
