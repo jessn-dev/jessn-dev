@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta and BlackRock Forge New Path for AI Infrastructure, Signaling a Funding Shift in the CapEx Arms Race](https://jessn-dev.github.io/engineering-blog/blog/2026-07-29-data-center/)
 - [Unlocking Native Performance on the Web: A Deep Dive into WebAssembly](https://jessn-dev.github.io/engineering-blog/blog/2026-07-28-computer-chip/)
 - [The EU AI Act: A New Era for Artificial Intelligence Regulation](https://jessn-dev.github.io/engineering-blog/blog/2026-07-26-european-parliament-building/)
 - [Mastering Python&#39;s Idioms: A Review of Fluent Python](https://jessn-dev.github.io/engineering-blog/blog/2026-07-25-python-programming-book/)
 - [Beyond the Server Room: How Serverless Computing Changes Everything](https://jessn-dev.github.io/engineering-blog/blog/2026-07-23-serverless-computing/)
-- [Google&#39;s AI Gamble: Billions Poured into Infrastructure as Gemini 3.5 Pro Faces Delay](https://jessn-dev.github.io/engineering-blog/blog/2026-07-22-ai-data-center-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
