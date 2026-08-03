@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google DeepMind Unveils Gemini Robotics 2: A Leap in Dexterous AI Control](https://jessn-dev.github.io/engineering-blog/blog/2026-08-02-robotic-arm-gripper/)
 - [Architecting for Longevity: A Review of Robert C. Martin&#39;s Clean Architecture](https://jessn-dev.github.io/engineering-blog/blog/2026-08-01-software-architecture-diagram/)
 - [The AI-Powered Evolution of Social Engineering: Navigating the New Era of Digital Deception](https://jessn-dev.github.io/engineering-blog/blog/2026-07-30-digital-deception-ai-phishing-voice-cloning/)
 - [Meta and BlackRock Forge New Path for AI Infrastructure, Signaling a Funding Shift in the CapEx Arms Race](https://jessn-dev.github.io/engineering-blog/blog/2026-07-29-data-center/)
 - [Unlocking Native Performance on the Web: A Deep Dive into WebAssembly](https://jessn-dev.github.io/engineering-blog/blog/2026-07-28-computer-chip/)
-- [The EU AI Act: A New Era for Artificial Intelligence Regulation](https://jessn-dev.github.io/engineering-blog/blog/2026-07-26-european-parliament-building/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
