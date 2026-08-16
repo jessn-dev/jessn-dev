@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Craft: A Review of The Pragmatic Programmer, 20th Anniversary Edition](https://jessn-dev.github.io/engineering-blog/blog/2026-08-15-developer-typing-code/)
 - [Digital Twins: Crafting a Smarter Future by Mirroring Reality](https://jessn-dev.github.io/engineering-blog/blog/2026-08-13-industrial-robot-arm/)
 - [Meta&#39;s Muse Glimmer Shifts AI Gravity to the Edge, Challenging Hyperscaler Dominance](https://jessn-dev.github.io/engineering-blog/blog/2026-08-12-ai-on-laptop/)
 - [Mastering Dependency Injection in .NET Core: A Practical Guide](https://jessn-dev.github.io/engineering-blog/blog/2026-08-11-software-architecture-diagram/)
 - [Quantum Leap: New Processor Architecture Boosts Qubit Stability and Error Correction](https://jessn-dev.github.io/engineering-blog/blog/2026-08-09-quantum-processor-chip/)
-- [Mastering Code Improvement: A Review of Refactoring, Second Edition](https://jessn-dev.github.io/engineering-blog/blog/2026-08-08-software-code-editor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
