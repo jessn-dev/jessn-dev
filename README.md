@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia&#39;s $500 Billion Alliance: The New Front in the AI Infrastructure War](https://jessn-dev.github.io/engineering-blog/blog/2026-08-19-nvidia-gpu-data-center/)
 - [Mastering Memory Management in Modern C++: Smart Pointers and RAII](https://jessn-dev.github.io/engineering-blog/blog/2026-08-18-computer-memory-c-code/)
 - [AI Orchestrates a New Era of Sustainable Data Centers](https://jessn-dev.github.io/engineering-blog/blog/2026-08-16-data-center-servers/)
 - [Mastering the Craft: A Review of The Pragmatic Programmer, 20th Anniversary Edition](https://jessn-dev.github.io/engineering-blog/blog/2026-08-15-developer-typing-code/)
 - [Digital Twins: Crafting a Smarter Future by Mirroring Reality](https://jessn-dev.github.io/engineering-blog/blog/2026-08-13-industrial-robot-arm/)
-- [Meta&#39;s Muse Glimmer Shifts AI Gravity to the Edge, Challenging Hyperscaler Dominance](https://jessn-dev.github.io/engineering-blog/blog/2026-08-12-ai-on-laptop/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
