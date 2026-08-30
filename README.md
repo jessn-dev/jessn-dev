@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Domain Complexity: A Review of Domain-Driven Design](https://jessn-dev.github.io/engineering-blog/blog/2026-08-29-software-architecture-diagram/)
 - [Bringing Intelligence Closer: The Rise of Edge Computing](https://jessn-dev.github.io/engineering-blog/blog/2026-08-27-industrial-sensors/)
 - [Meta&#39;s $50 Billion AI Bet Reshapes the Compute Landscape](https://jessn-dev.github.io/engineering-blog/blog/2026-08-26-ai-data-center/)
 - [Achieving Asynchronous Communication and Decoupling with Message Queues in Distributed Systems](https://jessn-dev.github.io/engineering-blog/blog/2026-08-25-message-broker-architecture/)
 - [AetherCast AI Model Revolutionizes Climate Prediction](https://jessn-dev.github.io/engineering-blog/blog/2026-08-23-weather-satellite/)
-- [Mastering Go: A Review of &#39;The Go Programming Language&#39;](https://jessn-dev.github.io/engineering-blog/blog/2026-08-22-go-gopher-mascot/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
