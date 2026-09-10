@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Google&#39;s €13 Billion Finland Bet: AI&#39;s Infrastructure Arms Race Escalates](https://jessn-dev.github.io/engineering-blog/blog/2026-09-09-ai-data-center/)
 - [Dynamic Kernel Observability: Mastering eBPF for System Performance and Security](https://jessn-dev.github.io/engineering-blog/blog/2026-09-08-linux-kernel-code/)
 - [The Enduring Wisdom of Structure and Interpretation of Computer Programs](https://jessn-dev.github.io/engineering-blog/blog/2026-09-05-computer-science-textbook/)
 - [The Invisible Enemy: How Software Supply Chain Attacks Threaten Modern Business](https://jessn-dev.github.io/engineering-blog/blog/2026-09-03-server-rack-circuit-board/)
 - [The Great Migration: From Attention to Intelligence](https://jessn-dev.github.io/engineering-blog/blog/2026-09-02-server-rack/)
-- [Mastering Distributed Tracing with OpenTelemetry for Microservices](https://jessn-dev.github.io/engineering-blog/blog/2026-09-01-distributed-tracing-diagram/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
