@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Distributed Transactions: Two-Phase Commit and the Saga Pattern](https://jessn-dev.github.io/engineering-blog/blog/2026-09-29-distributed-database/)
 - [Cooling the AI Revolution: New Chip-Level Liquid Systems Drive Efficiency](https://jessn-dev.github.io/engineering-blog/blog/2026-09-27-liquid-cooled-server-rack/)
 - [Navigating the Past: A Review of &#39;Working Effectively with Legacy Code&#39;](https://jessn-dev.github.io/engineering-blog/blog/2026-09-26-developer-working/)
 - [Navigating Global Data Sovereignty: The Impact of Data Residency on Cloud Architecture](https://jessn-dev.github.io/engineering-blog/blog/2026-09-24-global-network-map/)
 - [Anthropic&#39;s $2 Trillion IPO Ambition Signals AI&#39;s New Center of Gravity](https://jessn-dev.github.io/engineering-blog/blog/2026-09-23-ai-data-center/)
-- [Understanding Modern Memory Allocators: Heap Management for Performance and Security](https://jessn-dev.github.io/engineering-blog/blog/2026-09-22-computer-memory-chips/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
