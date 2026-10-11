@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Dragon: A Review of &#39;Compilers: Principles, Techniques, and Tools&#39;](https://jessn-dev.github.io/engineering-blog/blog/2026-10-10-compiler-code/)
 - [The California Privacy Rights Act: Empowering Consumers in a Data-Driven World](https://jessn-dev.github.io/engineering-blog/blog/2026-10-08-legal-document/)
 - [The AI Capital Expenditure Boom: Shifting Gravity from Attention to Intelligence](https://jessn-dev.github.io/engineering-blog/blog/2026-10-07-data-center-servers/)
 - [Demystifying the Service Mesh: Enhancing Microservices with Observability, Security, and Traffic Control](https://jessn-dev.github.io/engineering-blog/blog/2026-10-06-network-diagram/)
 - [The Silent Language of Touch: How Haptic Feedback is Redefining Our Digital World](https://jessn-dev.github.io/engineering-blog/blog/2026-10-01-haptic-feedback-device/)
-- [Microsoft&#39;s AI Infrastructure Surge: A $15 Billion Bet on the MANGOS Future](https://jessn-dev.github.io/engineering-blog/blog/2026-09-30-data-center/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
