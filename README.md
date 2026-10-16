@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Silent Drain: Mastering Cloud Cost Management in a Multi-Cloud World](https://jessn-dev.github.io/engineering-blog/blog/2026-10-15-cloud-infrastructure-costs/)
 - [Nvidia&#39;s Blackwell Ultra launch accelerates the AI CapEx race](https://jessn-dev.github.io/engineering-blog/blog/2026-10-14-nvidia-gpu/)
 - [Mastering API Security: A Practical Guide to OAuth 2.0 and OpenID Connect](https://jessn-dev.github.io/engineering-blog/blog/2026-10-13-authentication-flow-diagram/)
 - [AI Advances Real-time Sign Language Translation, Bridging Communication Gaps](https://jessn-dev.github.io/engineering-blog/blog/2026-10-11-person-signing-language/)
 - [Unveiling the Dragon: A Review of &#39;Compilers: Principles, Techniques, and Tools&#39;](https://jessn-dev.github.io/engineering-blog/blog/2026-10-10-compiler-code/)
-- [The California Privacy Rights Act: Empowering Consumers in a Data-Driven World](https://jessn-dev.github.io/engineering-blog/blog/2026-10-08-legal-document/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
