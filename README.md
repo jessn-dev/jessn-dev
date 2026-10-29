@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic&#39;s Trillion-Dollar IPO Filing Reshapes AI Landscape](https://jessn-dev.github.io/engineering-blog/blog/2026-10-28-ai-data-center/)
 - [Mastering Bidirectional Communication: A Practical Guide to WebSockets for Real-time Web Applications](https://jessn-dev.github.io/engineering-blog/blog/2026-10-27-network-cables/)
 - [The Enduring Foundation: A Review of TCP/IP Illustrated, Vol. 1](https://jessn-dev.github.io/engineering-blog/blog/2026-10-24-network-cables/)
 - [Beyond the Game Board: How Reinforcement Learning is Reshaping Real-World Systems](https://jessn-dev.github.io/engineering-blog/blog/2026-10-22-robotic-arm/)
 - [Anthropic&#39;s Staggering $750 Billion AI Spend Reshapes Cloud Landscape](https://jessn-dev.github.io/engineering-blog/blog/2026-10-21-ai-data-center/)
-- [JavaScript&#39;s Hidden Engine: Mastering the Event Loop and Garbage Collection](https://jessn-dev.github.io/engineering-blog/blog/2026-10-20-computer-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
