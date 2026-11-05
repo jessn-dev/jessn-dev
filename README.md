@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI CapEx Crucible: From Attention to Intelligence](https://jessn-dev.github.io/engineering-blog/blog/2026-11-04-server-rack/)
 - [Event-Driven AI Extends Life of Remote Environmental Sensors](https://jessn-dev.github.io/engineering-blog/blog/2026-11-01-remote-environmental-sensor/)
 - [Mastering Modern C++: A Review of Scott Meyers&#39; Effective Modern C++](https://jessn-dev.github.io/engineering-blog/blog/2026-10-31-c-code-on-screen/)
 - [The Silent Revolution: How LPWAN Technologies are Unlocking Massive IoT](https://jessn-dev.github.io/engineering-blog/blog/2026-10-29-iot-sensors/)
 - [Anthropic&#39;s Trillion-Dollar IPO Filing Reshapes AI Landscape](https://jessn-dev.github.io/engineering-blog/blog/2026-10-28-ai-data-center/)
-- [Mastering Bidirectional Communication: A Practical Guide to WebSockets for Real-time Web Applications](https://jessn-dev.github.io/engineering-blog/blog/2026-10-27-network-cables/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
