@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unseen Engine: Why the Command Line Still Drives Modern Development](https://jessn-dev.github.io/engineering-blog/blog/2026-11-12-terminal-window/)
 - [Anthropic&#39;s Trillion-Dollar AI Bet Ignites MANGOS Era, Exposing CapEx Reality](https://jessn-dev.github.io/engineering-blog/blog/2026-11-11-ai-data-center/)
 - [Ensuring Reliability: A Deep Dive into Idempotency in Distributed Systems](https://jessn-dev.github.io/engineering-blog/blog/2026-11-10-distributed-system-architecture/)
 - [AI-Enhanced Haptic Robotics Achieve New Levels of Precision in Manufacturing and Remote Operations](https://jessn-dev.github.io/engineering-blog/blog/2026-11-08-robotic-arm-haptic-feedback/)
 - [Mastering the .NET Platform&#39;s Engine: A Review of Jeffrey Richter&#39;s CLR via C#](https://jessn-dev.github.io/engineering-blog/blog/2026-11-07-developer-desk/)
-- [Anticipating Tomorrow: How IoT Transforms Industrial Maintenance](https://jessn-dev.github.io/engineering-blog/blog/2026-11-05-industrial-sensors/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
