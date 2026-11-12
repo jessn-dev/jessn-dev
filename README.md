@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I%27m+Jesse+%F0%9F%91%8B;Build.+Secure.+Automate.;Crafting+Resilient+Apps;Automating+Infrastructure;Hardening+Systems" alt="Hi there, I'm Jesse 👋" />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/ISACA_CISM-000000?style=for-the-badge&logoColor=white" alt="ISACA CISM" />
   <img src="https://img.shields.io/badge/CompTIA_CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA CySA+" />
   <img src="https://img.shields.io/badge/CompTIA_PenTest%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA PenTest+" />
   <img src="https://img.shields.io/badge/CompTIA_SecurityX-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA SecurityX" />
   <img src="https://img.shields.io/badge/ISC2_Certified_in_Cybersecurity-202B3D?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
-</p>
+</p> -->
 <p align="center">
   <img src="https://img.shields.io/badge/Western_Governors_University-M.S._Cybersecurity_%26_Information_Assurance-002F51?style=flat-square&logo=gitbook&logoColor=white" alt="WGU - M.S. Cybersecurity and Information Assurance" />
   <img src="https://img.shields.io/badge/University_of_the_Cordilleras-B.S._Information_Technology-00573F?style=flat-square&logo=gitbook&logoColor=white" alt="University of the Cordilleras - B.S. Information Technology" />
