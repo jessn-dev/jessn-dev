@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MicroLED Displays: A Manufacturing Breakthrough Paves the Way for Mainstream Adoption](https://jessn-dev.github.io/engineering-blog/blog/2026-11-15-microled-display-panel/)
 - [The Enduring Wisdom of The Mythical Man-Month: A Review](https://jessn-dev.github.io/engineering-blog/blog/2026-11-14-software-engineering-books/)
 - [The Unseen Engine: Why the Command Line Still Drives Modern Development](https://jessn-dev.github.io/engineering-blog/blog/2026-11-12-terminal-window/)
 - [Anthropic&#39;s Trillion-Dollar AI Bet Ignites MANGOS Era, Exposing CapEx Reality](https://jessn-dev.github.io/engineering-blog/blog/2026-11-11-ai-data-center/)
 - [Ensuring Reliability: A Deep Dive into Idempotency in Distributed Systems](https://jessn-dev.github.io/engineering-blog/blog/2026-11-10-distributed-system-architecture/)
-- [AI-Enhanced Haptic Robotics Achieve New Levels of Precision in Manufacturing and Remote Operations](https://jessn-dev.github.io/engineering-blog/blog/2026-11-08-robotic-arm-haptic-feedback/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
