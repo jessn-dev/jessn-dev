@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Code: Defending Against Modern MFA Bypass Attacks](https://jessn-dev.github.io/engineering-blog/blog/2026-11-19-cybersecurity-lock/)
 - [Anthropic&#39;s Trillion-Dollar Debut Signals MANGOS Era Ascendant](https://jessn-dev.github.io/engineering-blog/blog/2026-11-18-server-rack/)
 - [Optimizing the Critical Rendering Path for Faster Web Experiences](https://jessn-dev.github.io/engineering-blog/blog/2026-11-17-web-browser-rendering/)
 - [MicroLED Displays: A Manufacturing Breakthrough Paves the Way for Mainstream Adoption](https://jessn-dev.github.io/engineering-blog/blog/2026-11-15-microled-display-panel/)
 - [The Enduring Wisdom of The Mythical Man-Month: A Review](https://jessn-dev.github.io/engineering-blog/blog/2026-11-14-software-engineering-books/)
-- [The Unseen Engine: Why the Command Line Still Drives Modern Development](https://jessn-dev.github.io/engineering-blog/blog/2026-11-12-terminal-window/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
