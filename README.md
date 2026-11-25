@@ -63,11 +63,11 @@ I don't fit one box — each stop taught the next:
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Database Performance: A Comprehensive Guide to Indexing Strategies](https://jessn-dev.github.io/engineering-blog/blog/2026-11-24-database-index-diagram/)
 - [Aether Dynamics Unveils AetherLens Pro: A Leap Towards Mainstream Augmented Reality](https://jessn-dev.github.io/engineering-blog/blog/2026-11-22-augmented-reality-glasses/)
 - [Mastering Cloud-Native Architecture: A Review of Designing Distributed Systems](https://jessn-dev.github.io/engineering-blog/blog/2026-11-21-server-rack/)
 - [Beyond the Code: Defending Against Modern MFA Bypass Attacks](https://jessn-dev.github.io/engineering-blog/blog/2026-11-19-cybersecurity-lock/)
 - [Anthropic&#39;s Trillion-Dollar Debut Signals MANGOS Era Ascendant](https://jessn-dev.github.io/engineering-blog/blog/2026-11-18-server-rack/)
-- [Optimizing the Critical Rendering Path for Faster Web Experiences](https://jessn-dev.github.io/engineering-blog/blog/2026-11-17-web-browser-rendering/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
